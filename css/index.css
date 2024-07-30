@@ -204,7 +204,7 @@ main {
   }
 
   & > .oneday {
-    background-image: url(/images/oneday_bg.png);
+    background-image: url(../images/oneday_bg.png);
     background-size: cover;
     background-position: 50% center;
 
@@ -225,7 +225,7 @@ main {
   }
 
   & > .premium {
-    background-image: url(/images/premium_bg.png);
+    background-image: url(../images/premium_bg.png);
     background-size: cover;
     background-position: center;
 
