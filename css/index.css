@@ -183,23 +183,23 @@ main {
     }
 
     & > .banner1 {
-      background-image: url(/images/main_go_bg1.png);
+      background-image: url(../images/main_go_bg1.png);
     }
 
     & > .banner2 {
-      background-image: url(/images/main_go_bg2.png);
+      background-image: url(../images/main_go_bg2.png);
     }
 
     & > .banner3 {
-      background-image: url(/images/main_go_bg3.png);
+      background-image: url(../images/main_go_bg3.png);
     }
 
     & > .banner4 {
-      background-image: url(/images/main_go_bg4.png);
+      background-image: url(../images/main_go_bg4.png);
     }
 
     & > .banner5 {
-      background-image: url(/images/main_go_bg5.png);
+      background-image: url(../images/main_go_bg5.png);
     }
   }
 
